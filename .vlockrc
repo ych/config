@@ -1,0 +1,5 @@
+VLOCK_MESSAGE="This machine is `hostname`.
+
+This TTY is now locked.
+
+Please press [ENTER] to unlock."
