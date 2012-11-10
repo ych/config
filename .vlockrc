@@ -1,4 +1,4 @@
-VLOCK_MESSAGE="This machine is `hostname`.
+VLOCK_MESSAGE="`clear`This machine is `hostname`.
 
 This TTY is now locked.
 
