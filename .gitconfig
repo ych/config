@@ -1,0 +1,11 @@
+[user]
+	name = ych
+	email = ych@cs.nctu.edu.tw
+[core]
+	editor = vim 
+[color]
+	ui = auto
+[merge]
+	tool = vimdiff
+[branch]
+	autosetuprebase = always
