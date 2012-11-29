@@ -1,8 +1,8 @@
 [user]
-	name = ych
-	email = ych@cs.nctu.edu.tw
+	name = Yu-Chun Huang
+	email = yc_huang@fiberlogic.com
 [core]
-	editor = vim 
+	editor = vim
 [color]
 	ui = auto
 [merge]
