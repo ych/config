@@ -9,3 +9,5 @@
 	tool = vimdiff
 [branch]
 	autosetuprebase = always
+[push]
+	default = simple
