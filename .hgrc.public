@@ -1,0 +1,13 @@
+[ui]
+username = ych <ych@cs.nctu.edu.tw>
+editor = vim
+verbose = True
+
+[extensions]
+graphlog =
+rebase =
+shelve =
+
+[hgview]
+interface = raw
+maxfilesize = 10000000
