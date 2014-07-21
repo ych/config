@@ -4,6 +4,7 @@ editor = vim
 verbose = True
 
 [extensions]
+color =
 graphlog =
 rebase =
 shelve =
