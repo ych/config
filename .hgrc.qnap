@@ -3,9 +3,13 @@ username = ychuang <ychuang@qnap.com>
 editor = vim
 verbose = True
 
+[pager]
+pager = LESS='FRX' less
+
 [extensions]
 color =
 graphlog =
+pager =
 rebase =
 shelve =
 
