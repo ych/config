@@ -1,0 +1,18 @@
+[ui]
+editor = vim
+verbose = True
+
+[pager]
+pager = LESS='FRX' less
+
+[extensions]
+color =
+graphlog =
+pager =
+rebase =
+shelve =
+strip =
+
+[hgview]
+interface = raw
+maxfilesize = 10000000

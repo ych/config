@@ -1,18 +1,6 @@
 [ui]
 username = ychuang <ychuang@qnap.com>
-editor = vim
-verbose = True
 
-[pager]
-pager = LESS='FRX' less
+%include ~/config/.hgrc.basic
 
-[extensions]
-color =
-graphlog =
-pager =
-rebase =
-shelve =
-
-[hgview]
-interface = raw
-maxfilesize = 10000000
+%include ~/config/.hgrc.qnap.local

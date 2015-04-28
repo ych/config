@@ -1,18 +1,4 @@
 [ui]
 username = ych <ych@cs.nctu.edu.tw>
-editor = vim
-verbose = True
 
-[pager]
-pager = LESS='FRX' less
-
-[extensions]
-color =
-graphlog =
-pager =
-rebase =
-shelve =
-
-[hgview]
-interface = raw
-maxfilesize = 10000000
+%include ~/config/.hgrc.basic
