@@ -1,15 +1,5 @@
 [user]
 	name = ych
 	email = ych@cs.nctu.edu.tw
-[core]
-	editor = vim
-[color]
-	ui = auto
-[merge]
-	tool = vimdiff
-[branch]
-	autosetuprebase = always
-[push]
-	default = simple
-[credential]
-	helper = cache
+[include]
+	path = ~/config/.gitconfig.basic
