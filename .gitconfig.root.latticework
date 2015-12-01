@@ -1,0 +1,5 @@
+[user]
+	name = Yu-Chun Huang
+	email = yc.huang@latticeworkinc.com
+[include]
+	path = ~/config/.gitconfig.basic
