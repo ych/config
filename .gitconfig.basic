@@ -4,9 +4,11 @@
 	ui = auto
 [merge]
 	tool = vimdiff
-[branch]
-	autosetuprebase = always
 [push]
 	default = simple
 [credential]
 	helper = cache
+[pull]
+	rebase = true
+[log]
+	abbrevCommit = true

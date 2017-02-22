@@ -1,6 +1,0 @@
-[ui]
-username = ychuang <ychuang@qnap.com>
-
-%include ~/config/.hgrc.basic
-
-%include ~/config/.hgrc.qnap.local

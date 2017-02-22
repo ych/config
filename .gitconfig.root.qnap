@@ -1,5 +1,0 @@
-[user]
-	name = Yu-Chun Huang
-	email = ychuang@qnap.com
-[include]
-	path = ~/config/.gitconfig.basic
