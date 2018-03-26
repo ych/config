@@ -1,5 +1,6 @@
 [core]
 	editor = vim 
+	excludesfile = /home/ych/config/.gitignore_global
 [color]
 	ui = auto
 [merge]

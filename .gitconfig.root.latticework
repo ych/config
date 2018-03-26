@@ -1,7 +1,0 @@
-[user]
-	name = ych
-	email = yc.huang@latticeworkinc.com
-[include]
-	path = ~/config/.gitconfig.basic
-[core]
-	excludesfile = .gitignore
