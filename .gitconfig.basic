@@ -1,10 +1,10 @@
 [core]
-	editor = vim 
+	editor = nvim
 	excludesfile = /home/ych/config/.gitignore_global
 [color]
 	ui = auto
 [merge]
-	tool = vimdiff
+	tool = 'nvim -d'
 [push]
 	default = simple
 [credential]
