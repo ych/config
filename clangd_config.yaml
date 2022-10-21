@@ -1,0 +1,10 @@
+Hover:
+  ShowAKA: Yes
+InlayHints:
+  Enabled: Yes
+  ParameterNames: Yes
+  DeducedTypes: Yes
+Diagnostics:
+  UnusedIncludes: Strict
+CompileFlags:
+  Add: [-Wno-gnu-zero-variadic-macro-arguments, -Wall, -Wextra]
