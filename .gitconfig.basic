@@ -1,6 +1,6 @@
 [core]
-	editor = nvim
-	excludesfile = /home/ych/config/.gitignore_global
+	editor = nvim 
+	excludesfile = ~/config/.gitignore_global
 [color]
 	ui = auto
 [merge]
