@@ -1,6 +1,6 @@
 [user]
 	name = ych
-	email = ych@cs.nctu.edu.tw
+	email = ych@ychuang.org
 [include]
 	path = ~/config/.gitconfig.basic
 [filter "lfs"]
