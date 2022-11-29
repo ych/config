@@ -1,14 +1,4 @@
 {
-    "languageserver": {
-        "svls": {
-            "command": "svls",
-            "filetypes": ["systemverilog"]
-        },
-        "veridian": {
-            "command": "veridian",
-            "filetypes": ["systemverilog", "verilog"]
-        }
-    },
     "clangd.arguments": ["--include-cleaner-stdlib"],
     "inlayHint.enable": true,
     "inlayHint.display": true
