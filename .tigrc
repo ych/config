@@ -1,0 +1,4 @@
+set main-view-date = custom
+set main-view-date-local = true 
+set main-view-date-format = "%m/%d %H:%M"
+set main-view-author-width = 15
