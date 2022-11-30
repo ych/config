@@ -1,5 +1,5 @@
 {
-    "clangd.arguments": ["--include-cleaner-stdlib"],
+    "clangd.arguments": ["--background-index", "--query-driver=/usr/bin/g++", "--include-cleaner-stdlib", "--all-scopes-completion", "--clang-tidy"],
     "inlayHint.enable": true,
     "inlayHint.display": true
 }
